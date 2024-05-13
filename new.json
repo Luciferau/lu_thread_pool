@@ -1,0 +1,27 @@
+[
+    {
+        "name":"name",
+        "password":"password",
+        "info":
+            {
+                "key1":"332323232",
+                "keyi2":"12212122",
+                "config1":1,
+                "config2":0,
+                "config3":1
+            }
+    },
+    {
+        "name":"name",
+        "password":"password",
+        "info":
+            {
+                "key1":"332323232",
+                "keyi2":"12212122",
+                "config1":1,
+                "config2":0,
+                "config3":1
+            }
+    }
+   
+]
